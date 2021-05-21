@@ -4,6 +4,8 @@ Dataset source: Kaggle
 
 Task: Predict from given data whether the tumor is malignant or benign
 
+Model prediction accuracy: 95.3%
+
 Resources used:
 
 - https://towardsdatascience.com/
